@@ -3,6 +3,7 @@
 A data-driven **SQL & Excel analysis** exploring digital exposure, screen usage patterns, device preferences, and potential health impacts among **Indian children aged 8–18**, based on **9,712 records**.
 
 ## 📸 Analysis Preview
+[View LinkedIn Project](https://lnkd.in/p/dFQMFuH4)
 
 ![Screen Time Analysis of Indian Kids](YOUR-IMAGE-PATH)
 
